@@ -1,0 +1,29 @@
+package thepwnd.morecraftingrealism;
+
+import cpw.mods.fml.common.Mod;
+import cpw.mods.fml.common.Mod.EventHandler;
+import cpw.mods.fml.common.Mod.Instance;
+import thepwnd.reference.References;
+
+@Mod(modid = References.MODID, name = References.NAME, version = References.VERSION)
+public class MoreCraftingRealism {
+	
+	@Instance(References.MODID)
+	public static MoreCraftingRealism instance;
+	
+	@EventHandler
+	public void preInit() {
+		
+	}
+	
+	@EventHandler
+	public void init() {
+		
+	}
+	
+	@EventHandler
+	public void postInit() {
+		
+	}
+
+}

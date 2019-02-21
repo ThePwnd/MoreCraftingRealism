@@ -1,0 +1,8 @@
+package thepwnd.morecraftingrealism;
+
+import cpw.mods.fml.common.Mod;
+
+@Mod
+public class MoreCraftingRealism {
+
+}

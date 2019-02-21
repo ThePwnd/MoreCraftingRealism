@@ -1,0 +1,9 @@
+package thepwnd.morecraftingrealism;
+
+import cpw.mods.fml.common.Mod;
+import thepwnd.reference.References;
+
+@Mod(modid = References.MODID, name = References.NAME, version = References.VERSION)
+public class MoreCraftingRealism {
+
+}
