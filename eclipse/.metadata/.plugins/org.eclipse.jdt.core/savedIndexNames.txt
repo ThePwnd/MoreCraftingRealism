@@ -16,8 +16,8 @@ INDEX VERSION 1.130+E:\Workspaces\Minecraft\Mods\1.7.10\More Crafting Realism\ec
 4052158258.index
 3682349800.index
 3925791257.index
-916690988.index
 1043938383.index
+916690988.index
 1874725854.index
 2916620175.index
 3613075569.index
@@ -32,9 +32,9 @@ INDEX VERSION 1.130+E:\Workspaces\Minecraft\Mods\1.7.10\More Crafting Realism\ec
 2713200099.index
 3993481460.index
 4289128600.index
-1190522882.index
-3795489746.index
 2662649289.index
+3795489746.index
+1190522882.index
 1546768156.index
 505225696.index
 406560317.index
@@ -47,9 +47,9 @@ INDEX VERSION 1.130+E:\Workspaces\Minecraft\Mods\1.7.10\More Crafting Realism\ec
 1479033481.index
 286606776.index
 13565973.index
-1724486824.index
-3797864776.index
 2647024814.index
+3797864776.index
+1724486824.index
 1945930564.index
 2333267948.index
 3829063030.index

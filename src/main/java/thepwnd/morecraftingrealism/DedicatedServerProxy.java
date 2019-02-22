@@ -1,5 +1,5 @@
 package thepwnd.morecraftingrealism;
 
-public class DedicatedServerProxy {
+public class DedicatedServerProxy extends CommonProxy {
 
 }

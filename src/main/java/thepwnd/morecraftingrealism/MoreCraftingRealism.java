@@ -15,7 +15,7 @@ public class MoreCraftingRealism {
 	@Instance(References.MODID)
 	public static MoreCraftingRealism instance;
 	
-	@SidedProxy(clientSide = "thepwnd.morerealisticcrafting.CombinedClientProxy", serverSide = "thepwnd.morerealisticcrafting.DedicatedServerProxy")
+	@SidedProxy(clientSide = "thepwnd.morecraftingrealism.CombinedClientProxy", serverSide = "thepwnd.morecraftingrealism.DedicatedServerProxy")
 	public static CommonProxy proxy;
 	public enum GUI_ENUM {
 		WICKER_BASKET
@@ -24,6 +24,7 @@ public class MoreCraftingRealism {
 	@EventHandler
 	public void preInit(FMLPreInitializationEvent event) {
 		proxy.preInit();
+		CombinedClientProxy.registerRenderThings();
 	}
 	
 	@EventHandler
