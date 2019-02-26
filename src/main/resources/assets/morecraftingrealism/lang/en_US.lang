@@ -1,2 +1,5 @@
 item.morecraftingrealism:ItemLumberOak.name=Oak Lumber
+item.morecraftingrealism:ItemStrawBedding.name=Straw Bedding
+
 tile.BlockWickerBasket.name=Wicker Basket
+tile.MoreCraftingRealism:BlockStrawBed.name=Straw Mat

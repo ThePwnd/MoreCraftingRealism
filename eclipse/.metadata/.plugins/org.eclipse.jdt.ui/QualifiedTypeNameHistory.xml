@@ -1,17 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <qualifiedTypeNameHistroy>
-<fullyQualifiedTypeName name="thepwnd.reference.References"/>
-<fullyQualifiedTypeName name="cpw.mods.fml.relauncher.Side"/>
 <fullyQualifiedTypeName name="net.minecraft.block.Block"/>
-<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry"/>
-<fullyQualifiedTypeName name="thepwnd.registry.MCRBlocks"/>
 <fullyQualifiedTypeName name="thepwnd.registry.MCRTileEntities"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.common.network.NetworkRegistry"/>
 <fullyQualifiedTypeName name="thepwnd.registry.MCRCrafting"/>
 <fullyQualifiedTypeName name="net.minecraftforge.client.MinecraftForgeClient"/>
 <fullyQualifiedTypeName name="cpw.mods.fml.client.registry.ClientRegistry"/>
-<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
 <fullyQualifiedTypeName name="thepwnd.client.render.tileentity.RenderWickerBasket"/>
 <fullyQualifiedTypeName name="net.minecraft.client.renderer.tileentity.TileEntitySpecialRenderer"/>
 <fullyQualifiedTypeName name="thepwnd.tileentity.TileEntityWickerBasket"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.common.registry.GameRegistry"/>
+<fullyQualifiedTypeName name="thepwnd.reference.Textures"/>
+<fullyQualifiedTypeName name="thepwnd.registry.MCRBlocks"/>
+<fullyQualifiedTypeName name="cpw.mods.fml.relauncher.Side"/>
+<fullyQualifiedTypeName name="thepwnd.reference.References"/>
+<fullyQualifiedTypeName name="net.minecraft.init.Blocks"/>
+<fullyQualifiedTypeName name="net.minecraft.util.Direction"/>
+<fullyQualifiedTypeName name="net.minecraft.item.Item"/>
+<fullyQualifiedTypeName name="thepwnd.registry.MCRItems"/>
+<fullyQualifiedTypeName name="net.minecraft.world.biome.BiomeGenBase"/>
+<fullyQualifiedTypeName name="net.minecraft.util.ChunkCoordinates"/>
+<fullyQualifiedTypeName name="java.util.Random"/>
 </qualifiedTypeNameHistroy>

@@ -1,55 +1,31 @@
-[23:53:30] [main/INFO]: Setting user: Player295
-[23:53:31] [Client thread/INFO]: LWJGL Version: 2.9.1
-[23:53:36] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Crafting Realism
-[23:53:37] [Sound Library Loader/INFO]: Sound engine started
-[23:53:37] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[23:53:37] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[23:53:37] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Crafting Realism
-[23:53:38] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[23:53:38] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[23:53:38] [Sound Library Loader/INFO]: Sound engine started
-[23:53:42] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[23:53:42] [Server thread/INFO]: Generating keypair
-[23:53:43] [Server thread/INFO]: Preparing start region for level 0
-[23:53:43] [Server thread/INFO]: Changing view distance to 12, from 10
-[23:53:43] [Server thread/INFO]: Player295[local:E:388fb3a1] logged in with entity id 143 at (188.18261215308607, 66.0, -32.701379595735325)
-[23:53:43] [Server thread/INFO]: Player295 joined the game
-[23:53:46] [Server thread/INFO]: Saving and pausing game...
-[23:53:46] [Server thread/INFO]: Saving chunks for level 'Hello World'/Overworld
-[23:53:46] [Server thread/INFO]: Saving chunks for level 'Hello World'/Nether
-[23:53:46] [Server thread/INFO]: Saving chunks for level 'Hello World'/The End
-[23:59:31] [Server thread/INFO]: Stopping server
-[23:59:31] [Server thread/INFO]: Saving players
-[23:59:31] [Server thread/INFO]: Saving worlds
-[23:59:31] [Server thread/INFO]: Saving chunks for level 'Hello World'/Overworld
-[23:59:31] [Server thread/WARN]: The save is being accessed from another location, aborting
-[23:59:31] [Server thread/INFO]: Saving chunks for level 'Hello World'/Nether
-[23:59:31] [Server thread/INFO]: Saving chunks for level 'Hello World'/The End
-[23:59:32] [Client thread/INFO]: Stopping!
- Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Crafting Realism
-[23:58:07] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[23:58:08] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[23:58:08] [Sound Library Loader/INFO]: Sound engine started
-[23:58:22] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[23:58:22] [Server thread/INFO]: Generating keypair
-[23:58:22] [Server thread/INFO]: Preparing start region for level 0
-[23:58:23] [Server thread/INFO]: Changing view distance to 12, from 10
-[23:58:23] [Server thread/INFO]: Player29[local:E:fb058870] logged in with entity id 143 at (188.18261215308607, 66.0, -32.701379595735325)
-[23:58:23] [Server thread/INFO]: Player29 joined the game
-[23:58:28] [Server thread/INFO]: Player29 has just earned the achievement [Taking Inventory]
-[23:58:28] [Client thread/INFO]: [CHAT] Player29 has just earned the achievement [Taking Inventory]
-[23:59:04] [Server thread/INFO]: Saving and pausing game...
-[23:59:04] [Server thread/INFO]: Saving chunks for level 'Hello World'/Overworld
-[23:59:04] [Server thread/INFO]: Saving chunks for level 'Hello World'/Nether
-[23:59:04] [Server thread/INFO]: Saving chunks for level 'Hello World'/The End
-[23:59:18] [Server thread/INFO]: Saving and pausing game...
-[23:59:18] [Server thread/INFO]: Saving chunks for level 'Hello World'/Overworld
-[23:59:18] [Server thread/INFO]: Saving chunks for level 'Hello World'/Nether
-[23:59:18] [Server thread/INFO]: Saving chunks for level 'Hello World'/The End
-[23:59:26] [Server thread/INFO]: Stopping server
-[23:59:26] [Server thread/INFO]: Saving players
-[23:59:26] [Server thread/INFO]: Saving worlds
-[23:59:26] [Server thread/INFO]: Saving chunks for level 'Hello World'/Overworld
-[23:59:26] [Server thread/INFO]: Saving chunks for level 'Hello World'/Nether
-[23:59:26] [Server thread/INFO]: Saving chunks for level 'Hello World'/The End
-[23:59:27] [Client thread/INFO]: Stopping!
+[21:21:33] [main/INFO]: Setting user: Player718
+[21:21:34] [Client thread/INFO]: LWJGL Version: 2.9.1
+[21:21:39] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Crafting Realism
+[21:21:40] [Sound Library Loader/INFO]: Sound engine started
+[21:21:41] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[21:21:41] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[21:21:41] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:More Crafting Realism
+[21:21:41] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[21:21:41] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[21:21:42] [Sound Library Loader/INFO]: Sound engine started
+[21:21:46] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[21:21:46] [Server thread/INFO]: Generating keypair
+[21:21:46] [Server thread/INFO]: Preparing start region for level 0
+[21:21:47] [Server thread/INFO]: Changing view distance to 12, from 10
+[21:21:47] [Server thread/INFO]: Player718[local:E:b41c5b7b] logged in with entity id 577 at (187.8918817821035, 66.5625, -37.840285755567926)
+[21:21:47] [Server thread/INFO]: Player718 joined the game
+[21:21:54] [Server thread/INFO]: [Player718: Set game difficulty to Peaceful]
+[21:21:54] [Client thread/INFO]: [CHAT] Set game difficulty to Peaceful
+[21:22:04] [Server thread/INFO]: [Player718: Given [Shears] * 1 to Player718]
+[21:22:04] [Client thread/INFO]: [CHAT] Given [Shears] * 1 to Player718
+[21:22:40] [Server thread/INFO]: Saving and pausing game...
+[21:22:40] [Server thread/INFO]: Saving chunks for level 'Hello World'/Overworld
+[21:22:40] [Server thread/INFO]: Saving chunks for level 'Hello World'/Nether
+[21:22:40] [Server thread/INFO]: Saving chunks for level 'Hello World'/The End
+[21:22:41] [Server thread/INFO]: Stopping server
+[21:22:41] [Server thread/INFO]: Saving players
+[21:22:41] [Server thread/INFO]: Saving worlds
+[21:22:41] [Server thread/INFO]: Saving chunks for level 'Hello World'/Overworld
+[21:22:41] [Server thread/INFO]: Saving chunks for level 'Hello World'/Nether
+[21:22:41] [Server thread/INFO]: Saving chunks for level 'Hello World'/The End
+[21:22:42] [Client thread/INFO]: Stopping!
